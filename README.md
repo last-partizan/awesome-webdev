@@ -7,6 +7,9 @@
 Чтобы не запутаться в версиях файлов, умные люди придумали VCS aka СКВ
 - https://git-scm.com/book/ru/v2/
 
+### Редакторы
+Чтобы не править файлы в notepad, умные люди придумали [vim](https://www.vim.org/), но это скорее всего тяжело для неокрепших умов, поэтому существуют штуки попроще типа [sublime text](https://www.sublimetext.com/).
+
 ## Введение в HTML/CSS
 - https://webref.ru/layout/learn-html-css
 
