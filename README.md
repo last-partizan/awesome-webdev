@@ -19,3 +19,4 @@
 # Ресурсы на английском
 Чем скорее вы освоите английский, тем лучше.
 - https://www.w3schools.com/
+- [HTML & CSS Crash Course (Youtube playlist)](https://www.youtube.com/playlist?reload=9&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
