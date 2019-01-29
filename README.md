@@ -16,7 +16,15 @@
 ## Введение в JavaScript
 - http://learn.javascript.ru/
 
+## Хорошие курсы
+- https://ru.hexlet.io/
+- https://code-basics.ru/
+- https://welcome.stepik.org/ru
+
 # Ресурсы на английском
 Чем скорее вы освоите английский, тем лучше.
 - https://www.w3schools.com/
 - [HTML & CSS Crash Course (Youtube playlist)](https://www.youtube.com/playlist?reload=9&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
+
+## Платформа для обучения
+- https://paqmind.com/
