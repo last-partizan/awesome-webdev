@@ -20,6 +20,10 @@
 - https://ru.hexlet.io/
 - https://code-basics.ru/
 - https://welcome.stepik.org/ru
+- http://code.mu/
+
+## Лекции обо всём
+- https://lectoriy.mipt.ru/
 
 # Ресурсы на английском
 Чем скорее вы освоите английский, тем лучше.
@@ -28,3 +32,14 @@
 
 ## Платформа для обучения
 - https://paqmind.com/
+
+## Онлайн-курсы
+- https://in.udacity.com/
+- https://www.freecodecamp.org/
+- https://www.codecademy.com/ (и приложение [Codeacademy Go](https://news.codecademy.com/codecademy-go-faq/))
+- https://www.udemy.com/
+
+## Приложения
+- https://www.sololearn.com/
+- https://grasshopper.codes/
+- [Enki](https://play.google.com/store/apps/details?id=com.enki.insights&hl=ru)
