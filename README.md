@@ -33,6 +33,10 @@
 ## Платформа для обучения
 - https://paqmind.com/
 
+## Бэкенд : python
+- https://realpython.com/python-first-steps/
+- https://docs.djangoproject.com/en/2.1/
+
 ## Онлайн-курсы
 - https://in.udacity.com/
 - https://www.freecodecamp.org/
