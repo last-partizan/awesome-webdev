@@ -33,9 +33,12 @@
 ## Платформа для обучения
 - https://paqmind.com/
 
-## Бэкенд : python
+## Backend : python
 - https://realpython.com/python-first-steps/
 - https://docs.djangoproject.com/en/2.1/
+
+### Backend : python : курсы
+- https://www.codecademy.com/learn/learn-python-3
 
 ## Онлайн-курсы
 - https://in.udacity.com/
