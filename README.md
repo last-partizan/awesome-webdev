@@ -45,7 +45,8 @@
 - https://www.freecodecamp.org/
 - https://www.codecademy.com/ (и приложение [Codeacademy Go](https://news.codecademy.com/codecademy-go-faq/))
 - https://www.udemy.com/
-- https://www.europe.study/usa/45-harvard-university-web-programming
+- https://www.edx.org/course/cs50s-introduction-to-computer-science
+- https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
 
 ## Приложения
 - https://www.sololearn.com/
