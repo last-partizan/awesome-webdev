@@ -41,6 +41,7 @@
 - https://www.codecademy.com/learn/learn-python-3
 
 ## Онлайн-курсы
+- https://lambdaschool.com/
 - https://in.udacity.com/
 - https://www.freecodecamp.org/
 - https://www.codecademy.com/ (и приложение [Codeacademy Go](https://news.codecademy.com/codecademy-go-faq/))
