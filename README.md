@@ -41,6 +41,7 @@
 - https://www.codecademy.com/learn/learn-python-3
 
 ## Онлайн-курсы
+- https://github.com/microsoft/Web-Dev-For-Beginners
 - https://lambdaschool.com/
 - https://in.udacity.com/
 - https://www.freecodecamp.org/
