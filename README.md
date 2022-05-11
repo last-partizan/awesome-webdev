@@ -1,56 +1,35 @@
-# Ресурсы на русском
-Сборник ссылок на хорошие ресурсы по веб-разработке
-
-## Инструменты разработки
+## Інструменти
 
 ### Системы контроля версий
 Чтобы не запутаться в версиях файлов, умные люди придумали VCS aka СКВ
-- https://git-scm.com/book/ru/v2/
+- https://git-scm.com/book/uk/v2/
 
-### Редакторы
-Чтобы не править файлы в notepad, умные люди придумали [vim](https://www.vim.org/), но это скорее всего тяжело для неокрепших умов, поэтому существуют штуки попроще типа [sublime text](https://www.sublimetext.com/).
+### Редактори
 
-## Введение в HTML/CSS
-- https://webref.ru/layout/learn-html-css
+Найкращий редактор у світі [neovim](https://neovim.io/), для нього можна встановити IDE layer [LunarVim](https://github.com/LunarVim/LunarVim), але для цього доведеться трохи порозбиратись.
 
-## Введение в JavaScript
-- http://learn.javascript.ru/
+Другий по найкращості - [GNU Emacs](https://www.gnu.org/software/emacs/), для нього є набор конфігурацій [doom emacs](https://github.com/doomemacs/doomemacs).
 
-## Хорошие курсы
-- https://ru.hexlet.io/
-- https://code-basics.ru/
-- https://welcome.stepik.org/ru
-- http://code.mu/
+Якщо ви не хочете розбиратись з конфігурацією редакторів - найпростіший варіант: [vscode](https://code.visualstudio.com/). Це найбільш юзер-френдлі варіант.
 
-## Лекции обо всём
-- https://lectoriy.mipt.ru/
 
-# Ресурсы на английском
-Чем скорее вы освоите английский, тем лучше.
+# Гарвадські CS50 - це дуже крута штука:
+- https://www.edx.org/course/cs50s-introduction-to-computer-science
+- https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
+
+# Основи по web
 - https://www.w3schools.com/
 - [HTML & CSS Crash Course (Youtube playlist)](https://www.youtube.com/playlist?reload=9&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
 
-## Платформа для обучения
-- https://paqmind.com/
-
-## Backend : python
+### Python
 - https://realpython.com/python-first-steps/
-- https://docs.djangoproject.com/en/2.1/
+- https://docs.djangoproject.com/en/4.0/
 
-### Backend : python : курсы
+### Python курсом
 - https://www.codecademy.com/learn/learn-python-3
 
-## Онлайн-курсы
+## Інші курси
 - https://github.com/microsoft/Web-Dev-For-Beginners
 - https://lambdaschool.com/
 - https://in.udacity.com/
 - https://www.freecodecamp.org/
-- https://www.codecademy.com/ (и приложение [Codeacademy Go](https://news.codecademy.com/codecademy-go-faq/))
-- https://www.udemy.com/
-- https://www.edx.org/course/cs50s-introduction-to-computer-science
-- https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
-
-## Приложения
-- https://www.sololearn.com/
-- https://grasshopper.codes/
-- [Enki](https://play.google.com/store/apps/details?id=com.enki.insights&hl=ru)
